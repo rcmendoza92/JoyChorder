@@ -7,7 +7,7 @@ By relying on about 80 distinct motions (64 pairs of directions plus 16 individu
 
 It's not too dissimilar in theory from the [Daisywheel](http://likethemammal.github.io/daisywheeljs/) UI featured in Steam's Big Picture mode, but with each input having its own kinesthetic "shape", each character selection requiring only one simultaneous action (rather than indicating a group of letters and then confirming a selection from that subset), room on the controller left over for handy editing commands, and the ability to select individual characters as well as bigrams, trigrams, and 4-grams, JoyChorder takes full advantage of the affordances of the gamepad to provide a powerful typing interface.
 
-## Character map
+## Controls
 
 The layout below corresponds with a standard Xbox 360 controller.
 
